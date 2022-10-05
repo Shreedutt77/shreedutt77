@@ -3,11 +3,8 @@
 <!-- <a href="https://www.linkedin.com/in/shreedutt-dixit-613383191/">
   <img align="left" alt="Shreedutt's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://leetcode.com/inventor77/">
-  <img align="left" alt="Shreedutt's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a> -->
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/inventor77)](https://github.com/inventor77/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Shreedutt77)](https://github.com/Shreedutt77/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreedutt-dixit-613383191/)](https://www.linkedin.com/in/shreedutt-dixit-613383191/)
 
 </br>
@@ -32,37 +29,28 @@
 - Currently, working on ReactJS </br></br>
 - Learning BlockChain </br></br>
 - Open source Enthusiast </br></br>
-- Most of my projects are available on Github</br></br>
 
 </br>
 </br>
 
-<!-- </br>
 <details>
 <summary>
    Major Projects
 </summary>
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=NutriVeal_WebApp)](https://github.com/Inventor77/NodeJS_Projects)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=NutriVeal)](https://github.com/Inventor77/NutriVeal)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=Chat-App-with-Sentiment-Analysis)](https://github.com/Inventor77/Chat-App-with-Sentiment-Analysis)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=Image-Search)](https://github.com/Inventor77/Image-Search) -->
-
-<!-- ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif) -->
-<!-- </details> -->
 
 ### Top Languages
 
 <p >
-   <a href="https://github.com/mahhdev/">
-<!-- [![Top Langs]()](https://github.com/Inventor77/github-readme-stats) -->
-<!-- ![Inventor's github stats](theme=radical) -->
-         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inventor77&hide=html&show_icons=true&layout=compact&theme=dark" alt="Inventor77" />
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Inventor77&show_icons=true&&theme=dark" alt="Inventor77" />
+   <a href="https://github.com/Shreedutt77/">
+<!-- [![Top Langs]()](https://github.com/Shreedutt77/github-readme-stats) -->
+<!-- ![Shreedutt's github stats](theme=radical) -->
+         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreedutt77&hide=html&show_icons=true&layout=compact&theme=dark" alt="Shreedutt77" />
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreedutt77&show_icons=true&&theme=dark" alt="Shreedutt77" />
   </a>
 </p>
 
 </br>
 </br>
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Inventor77.Inventor77)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Shreedutt77.Shreedutt77)
