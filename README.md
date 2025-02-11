@@ -15,8 +15,3 @@
 </br>
 
 <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/297/2970.gif" width="350" height="240" />
-
-
-- Currently, working on ReactJS </br></br>
-- Learning BlockChain </br></br>
-- Open source Enthusiast </br></br>
